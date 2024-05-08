@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Video Output Flutter
+
+
+https://github.com/rius23/aplikasi_flutter_pertama/assets/129859832/2295bc18-60f5-428d-87ea-6fd2a44f36e5
+
